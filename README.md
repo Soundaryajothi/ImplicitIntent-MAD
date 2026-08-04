@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 ### Output Screen:
 <img width="1920" height="1200" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/5c5a7bac-2d61-41bf-b129-6742c4dbd722" />
 
--- As gmail requires login, only the loading page is shown --
+
 
 
 
